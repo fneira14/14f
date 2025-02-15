@@ -31,7 +31,7 @@ var lyricsData = [
   { text: "estoy muy feliz, por que estamos creciendo y cumpliendo nuestras metas", time: 102 },
   { text: "y sobre todo por que estamos juntos y nos amamos mucho", time: 106 },
   { text: "por ti me iría a vivir hasta la luna, y haría mil locuras más", time: 110 },
-  { text: "sin ningún tipo de dua", time: 114 },
+  { text: "sin ningún tipo de duda", time: 114 },
   { text: "eres el amor de mi vida", time: 118 },
   { text: "TE AMO", time: 122 },
   { text: "", time: 126 },
